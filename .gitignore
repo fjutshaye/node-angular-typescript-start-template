@@ -1,0 +1,12 @@
+# node-modules
+node_modules/**
+
+# build files
+dist/**
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
